@@ -629,7 +629,7 @@ local GetKeyBtn, GetKeyStroke, GetKeyLabel, GetKeyIcon = CreateInteractiveButton
 )
 
 local DiscordBtn, DiscordStroke, DiscordLabel, DiscordIcon = CreateInteractiveButton(
-    "DiscordBtn", 250, "Join Discord", "rbxassetid://95450893846739", Config.Theme.DiscordAccent
+    "DiscordBtn", 250, "Join Our Discord", "rbxassetid://95450893846739", Config.Theme.DiscordAccent
 )
 
 -- ==============================================================================
