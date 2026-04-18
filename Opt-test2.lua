@@ -57,7 +57,7 @@ local Config = {
         CornerRadius = 12,
         BorderThickness = 1.5,
         -- === CUSTOM BACKGROUND SETTINGS ===
-        BackgroundImageID = "rbxassetid://8280621415", -- Change this ID to your custom image
+        BackgroundImageID = "rbxassetid://74254450878926", -- Change this ID to your custom image
         BackgroundImageTransparency = 0.75 -- 0 is fully visible, 1 is invisible
     },
     Animations = {
@@ -629,7 +629,7 @@ local GetKeyBtn, GetKeyStroke, GetKeyLabel, GetKeyIcon = CreateInteractiveButton
 )
 
 local DiscordBtn, DiscordStroke, DiscordLabel, DiscordIcon = CreateInteractiveButton(
-    "DiscordBtn", 250, "Join Our Discord", "rbxassetid://95450893846739", Config.Theme.DiscordAccent
+    "DiscordBtn", 250, "Join Our Discord Server (For Updates)", "rbxassetid://95450893846739", Config.Theme.DiscordAccent
 )
 
 -- ==============================================================================
